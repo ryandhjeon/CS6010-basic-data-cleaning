@@ -1,5 +1,5 @@
  # Basic Cleaning Project
-----------
+
 ## Reflection
 
 This reflection should demonstrate a general understanding of the tasks (what you had to do), methods used, etc.
@@ -20,7 +20,6 @@ All python requirements are stored in `requirements.txt`. Run the code below to 
     pip install -r requirements.txt
 
 
-----------
 ## Reflection questions
 
 **1. What do I believe I did well on this assignment?**
@@ -40,7 +39,7 @@ Detailed steps on how the thought process should be when looking at the data for
 **5. What did I actually learn by doing this assignment? Why does it matter?**
 I learned a lot. It was pretty much the first time working on a data cleaning project. I now understand there is no such thing as clean data. There will be something or a lot of things that are not input. There is no global guideline on how to collect data, so it is our job to clean the dataset to be able to work with them. I learned the importance of how to clean them by using different types of imputation methods. None of them are perfect for every situation, but the predictiveness is getting better with machine learning and deep learning.
 
-----------
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
