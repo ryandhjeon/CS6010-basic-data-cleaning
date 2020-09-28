@@ -150,6 +150,6 @@ dmypy.json
 .pytype/
 
 # External data
-data/external/*
+data/external/*.csv
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
